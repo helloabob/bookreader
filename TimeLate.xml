@@ -1,0 +1,7 @@
+<config>
+	<timeOut>90</timeOut>
+	<showLogo>0</showLogo>
+        <showMouse>1</showMouse>
+	<rightClick>1</rightClick>
+         <ip_address>http://221.6.86.251:9112/</ip_address>
+</config>
